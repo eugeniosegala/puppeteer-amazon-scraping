@@ -4,6 +4,7 @@
   "description": "A little example of how to scrape the last 5 iPhone on Amazon with Node JS and Puppeteer.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
